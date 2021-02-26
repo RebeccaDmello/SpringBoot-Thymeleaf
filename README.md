@@ -8,6 +8,11 @@ How to run the app:
 -> In the browser, localhost:8080/joke
 You will be displayed with random quotes in the last component 
 
+Video: [note: the mapping request was modified after recording]  USE: localhost:8080/joke
+
+https://user-images.githubusercontent.com/32956051/109361787-7fa8b380-783e-11eb-9f81-fed1b6af8b92.mp4
+
+
 
 Output:
 
