@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+
+body {
+    font-family: 'varela round', sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+#container{
+    text-align: center;
+}
+
+.jokes {
+    line-height: 2rem;
+}
+
+.randomJk {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
